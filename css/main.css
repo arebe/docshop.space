@@ -1,0 +1,52 @@
+.team-member {
+    padding-top: 5px;
+    margin-bottom: 15px;
+}
+
+.team-heading {
+    display: block;
+    width: 100%;
+}
+
+.member-img {
+    overflow: hidden;
+}
+
+    .member-img img {
+        border-radius: 182px;
+        border: 1px solid rgb(218, 218, 218);
+    }
+
+ .team-socials {
+    margin: 15px 0;
+    display: block;
+    text-align: center;
+}
+
+    .team-socials i {
+        width: 35px;
+        height: 35px;
+        position: relative;
+        display: inline-block;
+        text-align: center;
+        font-size: 18px;
+        color: #C7C7C7;
+    }
+
+        .team-socials i:hover {
+            color: #8c0515;
+        }
+
+.team-member h4 {
+    font-size: 19px;
+    line-height: 32px;
+    padding: 10px 0 0;
+    text-align: center;
+    margin: 0px;
+}
+
+.team-member .pos {
+    display: block;
+    margin: 0;
+    text-align: center;
+}
