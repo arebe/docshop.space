@@ -14,7 +14,13 @@
 
     .member-img img {
         border-radius: 182px;
-        border: 1px solid rgb(218, 218, 218);
+        border: 2px solid rgb(218, 218, 218);
+    }
+
+    .member-img .fa{
+    	font-size: 170px;
+    	color: rgba(180, 180, 180, 0.7);
+    	
     }
 
  .team-socials {
@@ -50,3 +56,4 @@
     margin: 0;
     text-align: center;
 }
+
